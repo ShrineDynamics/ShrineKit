@@ -1,0 +1,1 @@
+Common health system for any object with interfaces for damage dealing objects - death/'corpse' system?

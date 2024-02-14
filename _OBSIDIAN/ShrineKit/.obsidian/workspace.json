@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "96be0cdeda07b6fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0576570d4baabde9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70e958901ed836ca",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shrine Kit.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b721cbf9259d5340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/Player Controller.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "241b194c82f8375e",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ffb8528208a2e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e26dd70e606975fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b750f43125ce1919",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0b444941f414540",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "4082443230941f51",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a6af32fbf29901a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a47e44cbb41a64d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Features/Player Controller.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d9d96bf73b7e38a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Features/Player Controller.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1d0f53849cb6a51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d31aa464447072b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Features/Player Controller.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b721cbf9259d5340",
+  "lastOpenFiles": [
+    "Shrine Kit.md",
+    "Features/Generic Health System.md",
+    "Features/Player Controller.md",
+    "Features/Common UI.md",
+    "Features/Generic Pooling.md",
+    "Features/Input Mapping.md",
+    "Features/NPC AI.md",
+    "Features/Projectile System.md",
+    "Features/Surface material system.md",
+    "Features",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Basic projectile system with performant tracing / non-rb col detection solution, sub-timestep movement, over-penetration compensation, air drag / gravity, etc. (avoid surf. penetration can of worms for now?)

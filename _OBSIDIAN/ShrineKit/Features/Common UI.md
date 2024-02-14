@@ -1,0 +1,8 @@
+- Settings menu
+	- Remappable controls
+	- FOV adjustment
+	- Mouse sensitivity adjustment
+	- Volume adjustment
+	- Anything else
+- Main menu (containing settings menu)
+- Pause menu (containing settings menu)

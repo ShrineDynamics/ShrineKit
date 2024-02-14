@@ -1,1 +1,0 @@
-Basic "Enemy" NPC AI with "Idle" state (wander or path-follow), "Seek" state (senses for seeing player and body, hearing sounds) and "Engage" state (generic combat functions such as strafing etc., useful for basic ranged or melee enemies) 

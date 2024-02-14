@@ -1,1 +1,0 @@
-Pooling system + Database / Loader that accepts generic types - useful for projectiles, VFX, decals, etc.

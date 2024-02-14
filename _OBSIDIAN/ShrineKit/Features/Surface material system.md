@@ -1,1 +1,0 @@
-Basic 'surface materials' for footstep sounds, physics sounds, hit VFX, and other interactions (like projectile penetration, etc.)
